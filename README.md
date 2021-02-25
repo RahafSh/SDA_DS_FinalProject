@@ -2,12 +2,12 @@
 
  ## Table of Content
 - [General Info](#general-Info)
-  - [Purpose]
-  - [Presentation]
-  - [Data]
-- [Results]
-- [Technologies]
-- [Other] 
+  - [Purpose](#purpose)
+  - [Presentation](#presentation)
+  - [Data](#data)
+- [Results](#results)
+- [Technologies](#technologies)
+- [Other](#other)
 
 ## General Info
 

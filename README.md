@@ -10,7 +10,7 @@
   - [Data](#data)
 - [Results](#results)
 - [Technologies](#technologies)
-- [Other](#other)
+
 
 ## General Info
  

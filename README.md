@@ -25,9 +25,16 @@ The dataset contains detailed for cases and tests in KSA.
  - I used `daily cases` file from [Covid-19 KSA](https://www.kaggle.com/fahdahalalyan/covid19-ksa)
 
 ## Results
- - First I wanted to show the cases by regoin 
+- First, I wanted to show the cases by regoin 
  - ![b](https://github.com/RahafSh/SDA_DS_FinalProject/blob/main/Images/02.PNG)
- - 
+    - As showen above the higheset confirmed cases. So, I have completed the model with Riyadh region.
+
+- Forecast Plots: 
+ - ![b](https://github.com/RahafSh/SDA_DS_FinalProject/blob/main/Images/08.PNG)
+ 
+- Component Plots:
+ - ![b](https://github.com/RahafSh/SDA_DS_FinalProject/blob/main/Images/09.PNG)
+
 ## Technologies
  - Tools:
     - Python

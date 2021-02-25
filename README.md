@@ -36,6 +36,10 @@ The dataset contains detailed for cases and tests in KSA.
 - Component Plots:
   ![b](https://github.com/RahafSh/SDA_DS_FinalProject/blob/main/Images/09.PNG)
 
+
+- Mean Absolute Error:
+  ![b](https://github.com/RahafSh/SDA_DS_FinalProject/blob/main/Images/16.PNG)
+
 ## Technologies
  - Tools:
     - Python

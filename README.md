@@ -1,7 +1,7 @@
 # Forecasting Covid-19 KSA by Confirmed Cases with Facebook Prophet
 
  ## Table of Content
-- [General Info](##general-Info)
+- [General Info](#general-Info)
   - [Purpose]
   - [Presentation]
   - [Data]

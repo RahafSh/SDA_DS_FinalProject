@@ -15,6 +15,7 @@
 ### Presentation
 ### Data
  - [Covid-19 KSA](https://www.kaggle.com/fahdahalalyan/covid19-ksa)
+ I used daily cases file
 ## Results
 ## Technologies
 ## Other

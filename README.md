@@ -13,12 +13,30 @@
 - [Other](#other)
 
 ## General Info
-
+ 
 ### Purpose
+The Kingdom of Saudi Arabia has dealt excellently with the Covid-19 situation. 
+The aim here to explore and extract hidden knowledge to predict the future using time series forecasting Prophet.
+
 ### Presentation
+ - 
 ### Data
+The dataset contains detailed for cases and tests in KSA.
  - I used `daily cases` file from [Covid-19 KSA](https://www.kaggle.com/fahdahalalyan/covid19-ksa)
 
 ## Results
+ - 
 ## Technologies
-## Other
+ - Tools:
+    - Python
+    - Google Colab
+    - Latex 
+    - Jupyter Lab
+    
+ - Packages:
+    - [Seaborn](https://seaborn.pydata.org/index.html#)
+    - [Matplotlib](https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html)
+    - [Fbprophet](https://facebook.github.io/prophet/docs/quick_start.html)
+    - [Pandas](https://pandas.pydata.org/)
+    - [Numpy](https://numpy.org/doc/stable/contents.html)
+    

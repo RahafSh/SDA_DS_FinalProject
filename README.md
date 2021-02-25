@@ -25,6 +25,8 @@ The dataset contains detailed for cases and tests in KSA.
  - I used `daily cases` file from [Covid-19 KSA](https://www.kaggle.com/fahdahalalyan/covid19-ksa)
 
 ## Results
+ - First I wanted to show the cases by regoin 
+ - ![b](https://github.com/RahafSh/SDA_DS_FinalProject/blob/main/Images/02.PNG)
  - 
 ## Technologies
  - Tools:

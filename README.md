@@ -20,6 +20,7 @@ The aim here to explore and extract hidden knowledge to predict the future using
 
 ### Presentation
  - [One Pager](https://www.overleaf.com/read/ybfzfnzjrzgf)
+ - [PowerPoint](https://drive.google.com/file/d/1plUonjINuCCwGkaoi7ghWs8wTFI7aHAT/view?usp=sharing)
  
 ### Data
 The dataset contains detailed for cases and tests in KSA.

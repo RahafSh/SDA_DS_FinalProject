@@ -19,7 +19,7 @@ The Kingdom of Saudi Arabia has dealt excellently with the Covid-19 situation.
 The aim here to explore and extract hidden knowledge to predict the future using time series forecasting Prophet.
 
 ### Presentation
- - [One Pager](https://www.overleaf.com/read/ybfzfnzjrzgf)
+ - [One Pager](https://github.com/RahafSh/SDA_DS_FinalProject/blob/main/Poster__Data_Science_Bootcamp%20(10).pdf)
  - [PowerPoint](https://drive.google.com/file/d/1plUonjINuCCwGkaoi7ghWs8wTFI7aHAT/view?usp=sharing)
  
 ### Data
